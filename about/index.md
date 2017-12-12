@@ -42,7 +42,7 @@ comments: false
 #PROJECTS
 
 * DSM-Bot
-* <a href="https://github.com/RISMME/TIL_CSharp"><b>DSM-DMS(Dormitory Management System)</b>
+* <a href="https://github.com/DSM-DMS/Project-DMS-Web_Server"><b>DSM-DMS(Dormitory Management System)</b>
 
 
 
