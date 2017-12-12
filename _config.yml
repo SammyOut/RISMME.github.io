@@ -1,13 +1,13 @@
 # Site
 title:              RISM
-bio:                'A common highschool student who wanna be a pythonista.'
+bio:                'A ordinary korean highschool student who wanna be a pythonista.'
 description:        "대덕 소프트웨어<br/>마이스터 고등학교<br/>3기 인상민"
 reading_time:       true
 words_per_minute:   200
 logo:               'assets/img/logo.png'
 background:         'assets/img/placeholder-big.jpg'
 tiled_bg:           false   # Set this true if you want to tile your background image, otherwise it will be covered
-locale:             ki_KO
+locale:             en_US
 url:                https://rismme.github.io/
 
 # Jekyll
