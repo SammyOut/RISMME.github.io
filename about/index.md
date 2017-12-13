@@ -16,7 +16,7 @@ comments: false
 
 <center><a href="https://github.com/RISMME"><b>I</b></a> am a ordinary korean high school student who wanna be a pythonista.</center>
 
-# Who Is RISM
+## Who Is RISM
 
 * 인상민
 * 대덕 소프트웨어 마이스터고등학교 3기
@@ -39,13 +39,13 @@ comments: false
 
 
 
-#PROJECTS
+## PROJECTS
 
 * DSM-Bot
 * <a href="https://github.com/DSM-DMS/Project-DMS-Web_Server"><b>DSM-DMS(Dormitory Management System)</b>
 
 
 
-# EXPERIMENTS
+## EXPERIMENTS
 
 * PYCON KR 2017 STAFF
