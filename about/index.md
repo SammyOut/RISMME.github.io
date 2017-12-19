@@ -42,10 +42,18 @@ comments: false
 ## PROJECTS
 
 * DSM-Bot
-* <a href="https://github.com/DSM-DMS/Project-DMS-Web_Server"><b>DSM-DMS(Dormitory Management System)</b>
+* <a href="https://github.com/DSM-DMS/Project-DMS-Backend"><b>DSM-DMS(Dormitory Management System)</b>
+* <a href="https://github.com/DidYouCommit/Github-Wallpaper"><b>Git Wallpaper</b>
 
 
 
 ## EXPERIMENTS
 
 * PYCON KR 2017 STAFF
+
+
+## SCHEDULED PROJECTS
+
+* Class Room Smart Speaker (DSM-Bot Extend)
+* DNA (Daedeok Software Meister highschool's Stack Over Flow)
+* State Language (Korean Programing Language)
